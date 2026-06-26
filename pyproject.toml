@@ -1,7 +1,7 @@
 [project]
 name = "agent-item"
 version = "0.1.0"
-description = "Add your description here"
+description = "A ReAct agent for floor-cleaning robot knowledge assistance, built with LangChain, LangGraph, RAG and Streamlit."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
