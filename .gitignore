@@ -23,7 +23,13 @@ htmlcov/
 # Logs
 *.log
 logs/
+src/agent_item/logs/
+
 
 # Downloaded data
 data/raw/*
 !data/raw/.gitkeep
+
+
+# Local vector database
+src/agent_item/rag/chroma_db/
